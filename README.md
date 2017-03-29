@@ -1,0 +1,2 @@
+# PrivateiOSDeviceConsole
+自定义的iOS设备日志控制台，可以在Mac上编译运行，并且可以使用命令行的方式调用。方便在源代码中对日志信息进行业务处理，可以将项目中的lib文件使用于类似场景的项目构建。基于开源代码https://github.com/libimobiledevice。
